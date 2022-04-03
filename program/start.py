@@ -89,7 +89,7 @@ async def start_(c: Client, message: Message):
 
 🕵🏻 Check out all the **Bot's commands** and how they work by clicking on the » 📚 **Commands** button!
 
-🧑🏻‍💻 Maintened by [PyTgMusic](https://t.me/tgcalls_MusicXchat)
+[🧑🏻‍💻](https://telegra.ph/file/b3d4b8e9ee627436c3684.jpg) Maintened by [PyTgMusic](https://t.me/tgcalls_MusicXchat)
 """,
         reply_markup=InlineKeyboardMarkup(
             [
