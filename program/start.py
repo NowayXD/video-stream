@@ -101,7 +101,7 @@ async def start_(c: Client, message: Message):
                 ],[
                     InlineKeyboardButton("✚ Add me to a Group ✚", url=f"https://t.me/{me_bot.username}?startgroup=true")
                 ],[
-                    InlineKeyboardButton("❓ Basic", callback_data="user_guide")
+                    InlineKeyboardButton("❓ Basic", callback_data="user_guide"),
                     InlineKeyboardButton("🥀 Dev", url=f"https://t.me/{OWNER_USERNAME}")
                 ],[
                     InlineKeyboardButton("💡 Git Repo", url="https://github.com/levina-lab/video-stream")
